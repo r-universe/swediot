@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "firmmatchr"]
+	path = firmmatchr
+	url = https://github.com/swediot/firmmatchr
+[submodule "placematchr"]
+	path = placematchr
+	url = https://github.com/cran/placematchr
